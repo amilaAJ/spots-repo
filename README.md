@@ -1,2 +1,2 @@
-#SPots
+#Sspots
 Variance
